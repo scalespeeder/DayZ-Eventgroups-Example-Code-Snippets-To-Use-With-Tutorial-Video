@@ -1,4 +1,4 @@
-<!--Event Group Notepad-->
+<!--Event Group Examples Notepad-->
 	
 		<!--events entry-->
 	
@@ -184,57 +184,5 @@
 	
 	
 	<!-- NOTESSSSS -->
-	
-	<!--<pos x="13554.4" z="5093.33" a="0" y="-0.179798" group="ShipWreck_Tulga"/>-->
-	<group name="ShipWreck_Tulga">
-		<child type="StaticObj_Wreck_Ship_Big_Lifeboat" deloot="0" lootmax="3" lootmin="1" x="0" z="0" y="0" a="186.005"/>
-		<child type="StaticObj_Wreck_Ship_Big_Lifeboat" deloot="0" lootmax="3" lootmin="1" x="-12.9004" z="-2.29004" y="1.39575" a="352.904"/>
-		<child type="StaticObj_Wreck_Ship_Big_Lifeboat" deloot="0" lootmax="3" lootmin="1" x="-10.2002" z="-9.99023" y="1.19179" a="139.512"/>
-		<child type="Land_Ship_Big_Castle" deloot="0" lootmax="3" lootmin="1" x="295" z="50.3398" y="3.95744" a="77.2024"/>
-	</group>
-		
-		
-		
-			<!--<pos x="15203.9" z="13586.9" a="0" y="2.06908" group="ShipWreck_Brerezhki"/>-->
-	<group name="ShipWreck_Brerezhki">
-		<child type="Land_Mil_Tent_Big1_1" deloot="0" lootmax="3" lootmin="1" x="0" z="0" y="0" a="220.41"/>
-		<child type="StaticObj_Wreck_Ship_Big_Lifeboat" deloot="0" lootmax="3" lootmin="1" x="13.0996" z="16.5" y="0.91512" a="197.64"/>
-		<child type="StaticObj_Wreck_Ship_Big_Lifeboat" deloot="0" lootmax="3" lootmin="1" x="8.7998" z="23.0996" y="0.59399" a="142.83"/>
-		<child type="StaticObj_Wreck_Ship_Big_Lifeboat" deloot="0" lootmax="3" lootmin="1" x="4.2998" z="15.1992" y="0.78399" a="218.699"/>
-	</group>
-		
-		
-	
-	
-	
-	
-<group name="StaticObj_Wreck_Ship_Big_Castle" lootmax="4">
-	<usage name="Industrial" />
-	<usage name="Farm" />
-	<usage name="Military" />
-	<container name="lootFloor" lootmax="4">
-		<point pos="4.608090 -0.713224 -2.124152" range="1" height="1" /> 
-		<point pos="6.037775 -0.712969 0.915404" range="1" height="1" /> 
-		<point pos="3.449404 -0.712914 1.511781" range="1" height="1" /> 
-		<point pos="-0.753943 -0.713217 -2.203725" range="1" height="1" /> 
-		<point pos="-5.413679 -0.713055 -0.046404" range="1" height="1" /> 
-		<point pos="8.892473 -3.406798 -0.614049" range="1" height="1" /> 
-		<point pos="9.585731 -3.406800 2.617952" range="1" height="1" /> 
-		<point pos="4.468747 -3.406801 5.439377" range="1" height="1" /> 
-		<point pos="9.725948 -3.406798 6.905118" range="1" height="1" /> 
-		<point pos="-4.221551 -3.406799 4.760492" range="1" height="1" /> 
-		<point pos="-10.062245 -3.406799 -0.417997" range="1" height="1" /> 
-		<point pos="-5.899074 -2.422422 7.111179" range="1" height="1" /> 
-		<point pos="-3.825054 -3.406799 -0.023243" range="1" height="1" /> 
-		<point pos="-2.005827 -3.406827 -1.265260" range="1" height="1" /> 
-		<point pos="0.500489 -3.406895 -1.890034" range="1" height="1" /> 
-		<point pos="5.845097 -3.406800 1.698657" range="1" height="1" /> 
-		<point pos="5.151532 -3.406805 -2.098748" range="1" height="1" /> 
-	</container>
-</group>
-
-	
-	
-	
 	
 	
