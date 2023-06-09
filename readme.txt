@@ -46,20 +46,20 @@
 		
 		<!--<pos x="13554.4" z="5093.33" a="0" y="-0.179798" group="ShipWreck_Tulga"/>-->
 	<group name="ShipWreck_Tulga">
-		<child type="StaticObj_Wreck_Ship_Big_Lifeboat" deloot="0" lootmax="3" lootmin="1" x="0" z="0" y="0" a="186.005"/>
-		<child type="StaticObj_Wreck_Ship_Big_Lifeboat" deloot="0" lootmax="3" lootmin="1" x="-12.9004" z="-2.29004" y="1.39575" a="352.904"/>
-		<child type="StaticObj_Wreck_Ship_Big_Lifeboat" deloot="0" lootmax="3" lootmin="1" x="-10.2002" z="-9.99023" y="1.19179" a="139.512"/>
-		<child type="StaticObj_Big_Castle" deloot="0" lootmax="3" lootmin="1" x="295" z="50.3398" y="3.95744" a="77.2024"/>
+		<child type="StaticObj_Wreck_Ship_Big_Lifeboat" deloot="0" lootmax="3" lootmin="2" x="0" z="0" y="0" a="186.005"/>
+		<child type="StaticObj_Wreck_Ship_Big_Lifeboat" deloot="0" lootmax="3" lootmin="2" x="-12.9004" z="-2.29004" y="1.39575" a="352.904"/>
+		<child type="StaticObj_Wreck_Ship_Big_Lifeboat" deloot="0" lootmax="3" lootmin="2" x="-10.2002" z="-9.99023" y="1.19179" a="139.512"/>
+		<child type="StaticObj_Big_Castle" deloot="0" lootmax="6" lootmin="4" x="295" z="50.3398" y="3.95744" a="77.2024"/>
 	</group>
 	
 	
 		
 			<!--<pos x="15203.9" z="13586.9" a="0" y="2.06908" group="ShipWreck_Brerezhki"/>-->
 	<group name="ShipWreck_Brerezhki">
-		<child type="Land_Mil_Tent_Big1_1" deloot="0" lootmax="3" lootmin="1" x="0" z="0" y="0" a="220.41"/>
-		<child type="StaticObj_Wreck_Ship_Big_Lifeboat" deloot="0" lootmax="3" lootmin="1" x="13.0996" z="16.5" y="0.91512" a="197.64"/>
-		<child type="StaticObj_Wreck_Ship_Big_Lifeboat" deloot="0" lootmax="3" lootmin="1" x="8.7998" z="23.0996" y="0.59399" a="142.83"/>
-		<child type="StaticObj_Wreck_Ship_Big_Lifeboat" deloot="0" lootmax="3" lootmin="1" x="4.2998" z="15.1992" y="0.78399" a="218.699"/>
+		<child type="Land_Mil_Tent_Big1_1" deloot="0" lootmax="5" lootmin="2" x="0" z="0" y="0" a="220.41"/>
+		<child type="StaticObj_Wreck_Ship_Big_Lifeboat" deloot="0" lootmax="3" lootmin="2" x="13.0996" z="16.5" y="0.91512" a="197.64"/>
+		<child type="StaticObj_Wreck_Ship_Big_Lifeboat" deloot="0" lootmax="3" lootmin="2" x="8.7998" z="23.0996" y="0.59399" a="142.83"/>
+		<child type="StaticObj_Wreck_Ship_Big_Lifeboat" deloot="0" lootmax="3" lootmin="2" x="4.2998" z="15.1992" y="0.78399" a="218.699"/>
 	</group>
 	
 	<!--END OF cfgeventgroup entry-->
